@@ -1,3 +1,5 @@
+package pl.dominisz;
+
 import java.util.function.Supplier;
 
 public class LK implements Supplier<String> {

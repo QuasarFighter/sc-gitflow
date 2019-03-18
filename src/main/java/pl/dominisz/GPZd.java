@@ -1,3 +1,5 @@
+package pl.dominisz;
+
 import java.util.function.Supplier;
 
 public class GPZd implements Supplier<String> {
